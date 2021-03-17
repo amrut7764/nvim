@@ -72,7 +72,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   " Emmet to speed up markup
   Plug 'mattn/emmet-vim'
   " Themes
-  Plug 'joshdick/onedark.vim'
+  "Plug 'joshdick/onedark.vim'
+  Plug 'gruvbox-community/gruvbox'
   " Multiple cursor
   Plug 'terryma/vim-multiple-cursors'
   " Testing
